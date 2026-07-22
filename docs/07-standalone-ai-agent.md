@@ -8,6 +8,12 @@ The build this repo documents ran [OpenClaw](https://github.com/openclaw/opencla
 inside **Termux**, with a "smart startup" script that detects connectivity and picks
 an online cloud model or an offline on‑device model automatically.
 
+<p align="center">
+  <img src="../assets/oneplus-7t-pro-nethunter-homescreen.jpg" alt="LineageOS home screen showing a Termux widget with one-tap agent startup/kill scripts, alongside PocketPal (on-device LLM) and privacy apps" width="300">
+  <br>
+  <em>The Termux:Widget (bottom‑left) exposes one‑tap launch/kill scripts for the agent — the smart‑startup pattern below. PocketPal (top‑left) is a handy on‑device LLM app for offline chat.</em>
+</p>
+
 > Nothing here is specific to one assistant — the *pattern* (Termux + Node + a startup
 > script + online/offline switching) works for any agent runtime.
 

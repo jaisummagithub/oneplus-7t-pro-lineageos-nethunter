@@ -13,6 +13,12 @@ This repo is written so **anyone with the same phone can replicate the whole thi
 from a factory‑reset device. Every step links back to the official upstream source
 so it stays valid as versions change.
 
+<p align="center">
+  <img src="assets/oneplus-7t-pro-nethunter-homescreen.jpg" alt="OnePlus 7T Pro running LineageOS + Kali NetHunter: a de-Googled, privacy-focused home screen with the NetHunter Store, Aurora Store, Briar, NewPipe, Organic Maps, DuckDuckGo, a VPN widget, and a Termux widget of one-tap AI-agent startup scripts" width="330">
+  <br>
+  <em>The finished build — LineageOS (de‑Googled) + Kali NetHunter, privacy apps (Briar, NewPipe, Organic Maps, DuckDuckGo, always‑on VPN), an on‑device LLM (PocketPal), and a Termux widget that one‑tap launches the local AI agent.</em>
+</p>
+
 > **Device codename:** `hotdog`  ·  **SoC:** Qualcomm SM8150 (Snapdragon 855+)
 > Do **not** confuse it with the OnePlus 7T (`hotdogb`). Flashing the wrong device's
 > firmware/ROM can hard‑brick your phone.
