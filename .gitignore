@@ -1,0 +1,22 @@
+# Secrets — never commit these
+.env
+*.env
+*.key
+*.pem
+*token*
+*secret*
+
+# Build artifacts / images
+*.img
+*.gz-dtb
+*.zip
+out/
+AnyKernel3/
+
+# Models
+*.gguf
+*.bin
+
+# OS cruft
+.DS_Store
+Thumbs.db
